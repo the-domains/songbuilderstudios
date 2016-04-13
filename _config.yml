@@ -1,0 +1,28 @@
+name: Songbuilderstudios
+favicon: null
+layout_spectrum: 0.43329627299681306
+typography_spectrum: 0.385163611266762
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5964441613759845
+  lightness: 0.838871197309345
+  saturation: 0.9394727491308004
+  rhythmicContrast: 0.8457412701100111
+purpose: []
